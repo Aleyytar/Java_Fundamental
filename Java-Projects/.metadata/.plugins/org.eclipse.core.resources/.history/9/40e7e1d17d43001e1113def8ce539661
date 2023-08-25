@@ -1,0 +1,12 @@
+package abstractDemo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		CustomManager customManager  = new CustomManager();
+		customManager.getCustomer();
+
+	}
+
+}

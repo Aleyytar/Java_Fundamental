@@ -1,0 +1,6 @@
+package abstractClasses;
+
+public abstract class GameCalculator {
+	 public abstract hesapla(int tip);
+	 gameOver();
+}

@@ -1,0 +1,28 @@
+package overriding;
+
+public class OgretmenKrediManager extends BaseKrediManager {
+	private String text;
+	private double faizOran;
+	
+	public double getFaizOran() {
+		return faizOran;
+	}
+
+	public void setFaizOran(double faizOran) {
+		this.faizOran = faizOran;
+	}
+
+	public String getText() {
+		return text;
+	}
+
+	public void setText(String text) {
+		this.text = text;
+	}
+
+	@Override
+	public double hesapla(double tutar) {
+		return ( tutar * getFaizOran());
+
+	}
+}

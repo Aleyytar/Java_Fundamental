@@ -1,0 +1,25 @@
+package exersize;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int sayi=1;
+		int sayi1=2;
+		int sayi2=3;
+		int enBüyük;
+		enBüyük=sayi1;
+		
+		
+		if(sayi>enBüyük) {
+			enBüyük=sayi;
+		}
+		if(sayi1>enBüyük) {
+			enBüyük=sayi1;
+		}
+		if(sayi2>enBüyük) {
+			enBüyük=sayi2;
+		}
+
+	}
+
+}

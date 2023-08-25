@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="KrediUI"/>
+    <fullyQualifiedTypeName name="BaseManager"/>
+    <fullyQualifiedTypeName name="OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="EmailLogger"/>
+    <fullyQualifiedTypeName name="BaseLogger"/>
+    <fullyQualifiedTypeName name="DataBaseLogger"/>
+    <fullyQualifiedTypeName name="FileLogger"/>
+    <fullyQualifiedTypeName name="overriding.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.TarimKrediManager"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="overriding.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.OgrenciKrediManager"/>
+    <fullyQualifiedTypeName name="abstractClasses.GameCalculator"/>
+    <fullyQualifiedTypeName name="abstractClasses.KidsCalculator"/>
+    <fullyQualifiedTypeName name="abstractClasses.ManGameCalculator"/>
+    <fullyQualifiedTypeName name="abstractClasses.WomanCalculator"/>
+    <fullyQualifiedTypeName name="abstractDemo.CustomManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.OracleDatabaseManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.BaseDatabaseManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.MySqlDataManager"/>
+    <fullyQualifiedTypeName name="OracleCustomerDal"/>
+    <fullyQualifiedTypeName name="CustomerManager"/>
+    <fullyQualifiedTypeName name="ICustomerDal"/>
+    <fullyQualifiedTypeName name="CustormerNormal"/>
+    <fullyQualifiedTypeName name="MySqlCustomerDal"/>
+    <fullyQualifiedTypeName name="java.lang.Iterable"/>
+    <fullyQualifiedTypeName name="interfaceDemo.IEatable"/>
+    <fullyQualifiedTypeName name="interfaceDemo.IPayable"/>
+    <fullyQualifiedTypeName name="interfaceDemo.IWorkerable"/>
+    <fullyQualifiedTypeName name="interfaceDemo.ITecnicalCare"/>
+    <fullyQualifiedTypeName name="staticDemo.Product"/>
+    <fullyQualifiedTypeName name="staticDemo.ProductManager"/>
+    <fullyQualifiedTypeName name="staticDemo.ProductValidator"/>
+</qualifiedTypeNameHistroy>
